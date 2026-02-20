@@ -8,7 +8,7 @@
  *
  * @details
  * This program measures the distance of an object using an HC-SR04
- * ultrasonic sensor. If the detected object is within 15 cm,
+ * ultrasonic sensor. If the detected object is within 15 cm, 
  * a servo motor rotates to 180 degrees. Otherwise, it returns
  * to 0 degrees.
  *
